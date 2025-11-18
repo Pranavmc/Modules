@@ -13,3 +13,6 @@ console.log(arr);
 
 console.log(emp);
 greet("manu");
+
+import nums from "./app1.js";
+console.log(nums);
