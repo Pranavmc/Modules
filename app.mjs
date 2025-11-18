@@ -5,7 +5,7 @@
 //1.Named import:we can importmultiple imports
 
 import { std, demo, arr } from "./app1.js";
-import { emp, greeet } from "./app2.js";
+import { emp, greet } from "./app2.js";
 
 console.log(std);
 demo();
